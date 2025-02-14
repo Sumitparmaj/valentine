@@ -1326,4 +1326,14 @@ body {
     text-align: center;
     margin-top: 20px;
     text-shadow: 2px 2px 4px rgba(255, 105, 180, 0.3);
+    position: relative;
+    z-index: 2;
 }
+
+.flowers {
+    display: flex;
+    justify-content: center;  /* Centers horizontally */
+    align-items: center;       /* Centers vertically */
+    flex-wrap: wrap;           /* Prevents flowers from overflowing */
+}
+
