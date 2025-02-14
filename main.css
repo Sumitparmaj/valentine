@@ -1319,3 +1319,11 @@ body {
   -webkit-animation-play-state: paused !important;
           animation-play-state: paused !important;
 }
+.valentine-text {
+    font-family: 'Indie Flower', cursive;
+    font-size: 36px;
+    color: #ff69b4;
+    text-align: center;
+    margin-top: 20px;
+    text-shadow: 2px 2px 4px rgba(255, 105, 180, 0.3);
+}
